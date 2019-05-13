@@ -7,6 +7,7 @@
 
 使用方式：`pip install web.py`
 >在pip install web.py失败的情况下，大多数可通过使用如下命令解决：`pip install web.py==0.40.dev0`
+>pip 下载超时： `pip --default-timeout=100 install -U pip`
 
 
 | 定义方法 | 作用 | 应用 |
